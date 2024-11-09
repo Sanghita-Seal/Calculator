@@ -1,0 +1,50 @@
+html,body{
+    height: 100%;
+    width: 100%;
+    background-color:#85dfac ;
+    
+}
+h1{
+    font-size: 3vw;
+}
+.button{
+    margin: 0.25vw 0.25vw;
+    border: 2% solid black;
+    border-radius: 12%;
+    cursor: pointer;
+    font-size: 2vw;
+    height: 2.5vw;
+    width: 3vw;
+    background-color: #aed581;
+}
+/* .row{
+    margin: 12px;
+} */
+ .row input{
+    margin: 2vw 20px 2.7vw;
+    padding: 0vw;
+    height: 2.5vw;
+    width: 13vw;
+    font-size: 1.5vw;
+    border: 1vw ridge #212121b3;
+    border-radius: 1.2vw;
+ }
+ .final-box{
+    height: 2.5vw;
+    width: 1vw;
+    border: 2px solid black;
+ }
+ 
+.container {
+        height: 26vw;
+        width: 17vw;
+        border: 2px solid black;
+        background-color: #757575b5;
+        
+ }
+ .cal{
+    background-color: lightgreen;
+ }
+ .op{
+    background-color: #29aa49;
+ }
